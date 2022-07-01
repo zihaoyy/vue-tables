@@ -1,4 +1,10 @@
-# 0531
+# Vue-tables
+
+## Description
+This project uses vue2 for handwritten tables and pagination
+
+## Preview image
+![](https://github.com/zihaoyy/vue-tables/tree/main/public/preview.png)
 
 ## Project setup
 ```
