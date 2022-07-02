@@ -1,7 +1,7 @@
 # Vue-tables
 
 ## Description
-This project uses vue2 for handwritten tables and pagination
+Use vue2 for handwritten forms and pagination as plugins
 
 ## Preview image
 ![](https://github.com/zihaoyy/vue-tables/blob/main/public/preview.png)
